@@ -20,6 +20,8 @@ creator:
     - http://fi.wikipedia.org/wiki/Santeri_Alkio
     - http://en.wikipedia.org/wiki/Santeri_Alkio
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41531#Aikamme-kuvia-I-III
 gutenberg_issued: '2012-12-01'
 gutenberg_type: Text
 identifiers:
