@@ -1,0 +1,40 @@
+_repo: Aikamme-kuvia-I-III_41531
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Alkio, Santeri
+    aliases:
+    - Heikkilainen, Iiska
+    - Paukkunen, Jussi
+    - Filander, Santeri
+    - Heikkiläinen, Iiska
+    - Filander, Aleksander
+    birthdate: 1862
+    deathdate: 1930
+    gutenberg_agent_id: '5319'
+    url: http://www.gutenberg.org/2009/agents/5319
+    wikipedia:
+    - http://fi.wikipedia.org/wiki/Santeri_Alkio
+    - http://en.wikipedia.org/wiki/Santeri_Alkio
+description: ''
+gutenberg_issued: '2012-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41531'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Short stories'
+- !lcsh 'Fiction'
+tableOfContents: 'I: "Miesten parahia". Olutta ja härjän heiniä. Kohtuus. Oliko Mikko
+  lurjus. Käypää tavaraa. Lepopäivänä -- II: Rikkaampi kuin Vauhkosen emäntä. Rinni-pahanen.
+  Mattiparka. Maineen uhreja. Nuo Rutakkalan hyvät isännät. Pyhä vala -- III: Harjoittelia.
+  "Suuri palkka". Vaikeassa asemassa.'
+title: Aikamme kuvia I-III
+url: http://www.gutenberg.org/ebooks/41531
